@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1>About us</h1>
+
+Semicolon Plus Plus lies it's focus on creating a programming language that is modern and cross-platform compatible.
+Besides being modern and cross-platform supported, Semicolon Plus Plus has an easy syntax, and a fast executable execution.
+Semicolon Plus Plus has a view filename-extentions:
+
+* spp (For main files)
+* spph (For libraries or header files)
 
 <!--
 
