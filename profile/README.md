@@ -17,7 +17,7 @@ A quick overview of topics SPP focuses on:
  
 <h2>SPP's build-in features</h2>
 
-Semicolon Plus Plus has some build-in functions that help the programmer to quickly setup a wireframe/ base of his application.
+Semicolon Plus Plus has some build-in features that help the programmer to quickly setup a wireframe/ base of his application.
 Underneath is a list of build-in SPP features:
 
 * onion curl
