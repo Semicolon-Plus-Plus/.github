@@ -29,3 +29,12 @@ Underneath is a list of build-in SPP features:
 
 
 <h3>Requirements</h3>
+
+SPP has a view required dependencies. For translating the syntax to C++, Python is used.
+To build the executable from the C++ source code, mingw or g++ is used.
+Therefore Python 3 or higher is required and C++ version v17 or higher is required.
+
+Requirements:
+
+* Python 3.*
+* g++ v17 (or higher) or mingw c++ v17 (or higher)
