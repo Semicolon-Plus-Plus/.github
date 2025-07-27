@@ -8,12 +8,12 @@ Semicolon Plus Plus has a view filename-extentions:
 * spp (For main files)
 * spph (For libraries or header files)
 
-  A quick overview of topics SPP focuses on:
+A quick overview of topics SPP focuses on:
 
-  * cross-platform support
-  * Fast execution (C++ compiled)
-  * Modern syntax
-  * Library support
+* cross-platform support
+* Fast execution (C++ compiled)
+* Modern syntax
+* Library support
  
 <h2>SPP's build-in features</h2>
 
