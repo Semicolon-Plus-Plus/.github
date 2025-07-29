@@ -23,9 +23,9 @@ Underneath is a list of build-in SPP features:
 * onion curl
 * TCP server
 * webserver
-* databases
+* database (mysql)
 * console application
-* windowed application
+* window application
 
 
 <h3>Requirements</h3>
